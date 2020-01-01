@@ -1,0 +1,5 @@
+<div class='note'><h3>A title</h3><p>This is a note
+</p></div>
+<div class='note'><h3>TIttle</h3><p>Umm yeet?
+Nah fam</p></div>
+<div class='note'><h3>Hello</h3><p>no</p></div>
